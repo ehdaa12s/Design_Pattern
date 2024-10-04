@@ -9,4 +9,6 @@ this repositey has examples for design patterns it includes
 -  Adapter
 -  Facad
 -  Command
+-  Compiste
+  
   
